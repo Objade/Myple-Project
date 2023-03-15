@@ -1,4 +1,4 @@
-# Myple-Project
+# 마이플
 
 ✏️ 사용한 언어 : JSP, JAVA
 
